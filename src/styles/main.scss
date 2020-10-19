@@ -1,0 +1,55 @@
+@import "crt.scss";
+
+$green: #28fc91;
+$black: #111;
+body {
+  background: $black;
+  font-family: "VT323", monospace;
+  color: $green;
+}
+
+.main-container {
+  width: 340px;
+  margin: 0 auto;
+}
+
+.svg-container {
+  margin: 0 auto;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  width: 180px;
+
+  .oni-svg {
+    width: 100%;
+    opacity: 0.9;
+  }
+}
+
+.text-container {
+  h1 {
+    font-size: 28px;
+    font-weight: none;
+  }
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding: 3px 9px;
+  margin-top: 30px;
+  background: none;
+  color: $green;
+  border: 2px solid $green;
+  cursor: pointer;
+  &:focus {
+    color: $green;
+    border: 2px solid $green;
+    outline: 0;
+  }
+
+  &:hover {
+    background: $green;
+    color: $black;
+  }
+}
