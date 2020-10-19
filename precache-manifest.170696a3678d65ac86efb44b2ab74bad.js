@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7789b0ed7223abc0b71eea652d52621c",
+    "revision": "b323312b6a5b37010a6917cc25afa931",
     "url": "/oni/index.html"
   },
   {
