@@ -10,6 +10,7 @@ export const Log = (props: LogProps) => {
       avgTypingDelay={0}
       stdTypingDelay={0}
       onTypingDone={props.onTypingDone}
+      onLineTyped={() => window.scrollTo(0, document.body.scrollHeight)}
     >
       <pre>
         root$ lsof -n -itcp | head -4<br></br>

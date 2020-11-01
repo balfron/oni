@@ -2,7 +2,6 @@ import React from "react";
 import "../styles/main.scss";
 import { Log } from "./Log";
 import { Splash } from "./Splash";
-import oniSvg from "../images/oni.svg";
 import { PostExecution } from "./PostExecution";
 
 function App() {
