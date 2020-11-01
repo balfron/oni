@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/oni/static/css/main.0fbfed8d.chunk.css",
+    "main.css": "/oni/static/css/main.ee2b509c.chunk.css",
     "main.js": "/oni/static/js/main.415c2275.chunk.js",
     "main.js.map": "/oni/static/js/main.415c2275.chunk.js.map",
     "runtime-main.js": "/oni/static/js/runtime-main.e10ad56d.js",
@@ -8,16 +8,16 @@
     "static/js/2.2d4e5f96.chunk.js": "/oni/static/js/2.2d4e5f96.chunk.js",
     "static/js/2.2d4e5f96.chunk.js.map": "/oni/static/js/2.2d4e5f96.chunk.js.map",
     "index.html": "/oni/index.html",
-    "precache-manifest.d2ca313222327787795d6b832c4acec2.js": "/oni/precache-manifest.d2ca313222327787795d6b832c4acec2.js",
+    "precache-manifest.14f81f61150b92af7a9f5d34f2b583ce.js": "/oni/precache-manifest.14f81f61150b92af7a9f5d34f2b583ce.js",
     "service-worker.js": "/oni/service-worker.js",
-    "static/css/main.0fbfed8d.chunk.css.map": "/oni/static/css/main.0fbfed8d.chunk.css.map",
+    "static/css/main.ee2b509c.chunk.css.map": "/oni/static/css/main.ee2b509c.chunk.css.map",
     "static/js/2.2d4e5f96.chunk.js.LICENSE.txt": "/oni/static/js/2.2d4e5f96.chunk.js.LICENSE.txt",
     "static/media/oni.svg": "/oni/static/media/oni.d2eb8d92.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e10ad56d.js",
     "static/js/2.2d4e5f96.chunk.js",
-    "static/css/main.0fbfed8d.chunk.css",
+    "static/css/main.ee2b509c.chunk.css",
     "static/js/main.415c2275.chunk.js"
   ]
 }
